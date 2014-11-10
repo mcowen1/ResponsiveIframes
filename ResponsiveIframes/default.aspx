@@ -16,12 +16,12 @@
         <div class="container">
             <div class="jumbotron">
                 <h2>Responsive iframes - Here's how</h2>
-                <h4>Responsive design (the ability to display your Web Page on any screen size , orginally defines and deiscribed by <a href ="http://alistapart.com/article/responsive-web-design" target="_blank" > ETHAN MARCOTTE</a>) is one of the most important developments to come along in the last several years.<br />
+                <h4>Responsive design (the ability to display your Web Page on any screen size, originally defines and described  by <a href ="http://alistapart.com/article/responsive-web-design" target="_blank" > ETHAN MARCOTTE</a>) is one of the most important developments to come along in the last several years.<br />
                     <br />
                     We are at the point where more Web Pages are viewed on mobile devises than on traditional laptops or desktops. It is not always cost effective to develop a mobile app to replace your web site.<br />
                     <br />
                     In fact, for most companies, it is not a workable solution as users are reluctant to install a mobile app for a company that they may very infrequently query. This is where responsive web pages shine.
-                You can write one application to rule them all - as it were.
+                    You can write one application to rule them all - as it were.
 
                 </h4>
             </div>
@@ -84,6 +84,12 @@ iframe {
                 </div>
             </div>
             <br />
+                      
+            <div style="text-align: center; color: gray; font-size: 14px; width: 100%; height: auto; background-color: lightgray; border-top: solid; border-width: 1px; padding-bottom: 10px; padding-top: 10px; border-top-style: inset; border-top-color: gray;">
+                <span style="color: gray; padding-right: 10px;">&copy 2014-m.cowen design</span>
+                <img src="Images/logo24.png" alt="..." /><span style="color: green; font-family: Segoe Script; padding-left: 10px;"> Software that pays its own way.</span>
+            </div>
+
         </div>
     </form>
 </body>
